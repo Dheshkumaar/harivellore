@@ -1,4 +1,6 @@
 git init
 git add.
-git commit -m ""
+git commit -m "hello......."
 git remote add origin 
+git push origin master
+git pull origin master
